@@ -9,10 +9,6 @@ Track and manage your fitness activities with the MERN Fitness Tracker! This app
 - Visualize workout history and trends.
 - Interactive and responsive user interface.
 
-## Screenshots
-
-Include screenshots or GIFs showcasing your app's UI and features.
-
 ## Technologies Used
 
 - **Frontend:**
@@ -36,24 +32,25 @@ Include screenshots or GIFs showcasing your app's UI and features.
 - Git
   
 ## Navigate to the backend directory and install backend dependencies:
-
+ ```bash
 -cd mern-fitness-app/backend
 -npm install
-
+````
 ## Create a .env file in the backend directory and add your environment variables (e.g., database connection string, JWT secret).
 
 ## Start the backend Server 
+ ```bash
 -npm start
-
+````
 ## Open a new terminal window, navigate to the frontend directory, and install frontend dependencies:
-
+ ```bash
 -cd ../frontend
 -npm install
-
-## Start the frontEnd development server.
-
+```
+### Start the frontEnd development server.
+ ```bash
 -npm start
-
+````
 ### Installation
 
 1. Clone the repository:
